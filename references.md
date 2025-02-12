@@ -1,4 +1,5 @@
 # References
 
 * octocat 1 😈
-* octoman 2
+* octodog 2
+* octoman 3
